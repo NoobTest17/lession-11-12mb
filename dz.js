@@ -34,4 +34,4 @@ const Worker2 = new Worker({
   peopleIsLove: 'MaxMig'
 }, 240, 28)
 
-console.log(Worker1.getFullName())
+console.log( Worker1.getFullName() )
